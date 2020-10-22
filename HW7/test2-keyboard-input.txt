@@ -1,0 +1,17 @@
+1
+1
+100
+Scotty
+2 2 2200
+Enterprise
+1
+1
+200
+Kirk
+1 1 2200
+Enterprise
+2
+1002
+3
+999
+8
